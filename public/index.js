@@ -5,7 +5,7 @@ import "./index.css";
 const hintedCharacters = document.getElementById('hintedCharacters')
 const hintedBackgrounds = document.getElementById('hintedBackgrounds')
 
-export const BASE_URL = "https://attorneyoffline.de/base/"
+export const BASE_URL = "http://51.81.35.39/base/"
 export const BASE_CHARACTERS_URL = BASE_URL + "characters/"
 export const BASE_BACKGROUND_URL = BASE_URL + "background/"
 export const BASE_SOUNDS_URL = BASE_URL + "sounds/"
